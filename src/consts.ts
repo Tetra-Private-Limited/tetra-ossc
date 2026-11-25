@@ -18,10 +18,10 @@ export const SITE = {
 export const CONTACT = {
   // International format, digits only, no '+' or spaces (used in wa.me links).
   whatsapp: '8801000000000', // PLACEHOLDER
-  phone: '+8801000000000', // PLACEHOLDER
+  phone: '+8801798767421', // PLACEHOLDER
   email: 'info@tetrabd.com', // PLACEHOLDER
   // Public company address (from tetrabd.com) — confirm/replace if needed.
-  address: '218/3, Shefali Complex, Begum Rokeya Sarani, Dhaka 1207, Bangladesh',
+  address: '253/3(A), Jabbar Sarak, Opposite of SOS School, Nirala, Khulna-9100',
 };
 
 /** Build a WhatsApp deep-link pre-filled with an enquiry message. */
